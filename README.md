@@ -22,6 +22,11 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,html,css,js,bootstrap,mongodb,express,react,nodejs,redux,redis,jest,vite,postman,md,vscode,git,github,figma,blender,ae,ps,pr,ai&perline=6)](https://skillicons.dev)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=knixspace&show_icons=true&locale=en&layout=compact" alt="knixspace" /></p>
