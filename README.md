@@ -27,7 +27,7 @@
   <img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,js,bootstrap,mongodb,express,react,nodejs,redux,redis,jest,vite,postman,md,vscode,git,github,figma,blender,ae,ps,pr,ai" />
 </a>
 
-<p>Statics</p>
+<h3 align="left">Statistics</h3>
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=knixspace&show_icons=true&locale=en&layout=compact" alt="knixspace" /></p>
 
