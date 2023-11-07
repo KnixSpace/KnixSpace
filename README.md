@@ -1,4 +1,3 @@
-![MasterHead](https://github.com/KnixSpace/KnixSpace/assets/119075131/4f936bd6-e514-4c4d-b373-ee860b9d0b92)
 <h1 align="center">Hi 👋, I'm Krupal Patel</h1>
 <h3 align="center">A Passionate MERN Stack Developer</h3>
 
