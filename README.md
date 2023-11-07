@@ -27,8 +27,10 @@
   <img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,js,bootstrap,mongodb,express,react,nodejs,redux,redis,jest,vite,postman,md,vscode,git,github,figma,blender,ae,ps,pr,ai" />
 </a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=knixspace&show_icons=true&locale=en&layout=compact" alt="knixspace" /></p>
+<p>Statics</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=knixspace&show_icons=true&locale=en" alt="knixspace" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=knixspace&show_icons=true&locale=en&layout=compact" alt="knixspace" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=knixspace&" alt="knixspace" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=knixspace&show_icons=true&locale=en" alt="knixspace" /></p>
+
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=knixspace&" alt="knixspace" /></p>
