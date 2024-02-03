@@ -5,8 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/knixspace" target="blank"><img src="https://img.shields.io/twitter/follow/knixspace?logo=twitter&style=for-the-badge" alt="knixspace" /></a> </p>
 
-- 🌱 I’m currently learning **![InfinityGIF](https://github.com/KnixSpace/KnixSpace/assets/119075131/473de0d5-4a22-4d95-af6e-7a3b5352a2a0)
-Docker**
+- 🌱 I’m currently learning **♾️**
 
 - 💬 Ask me about **MERN | Web Development | Frontend | Backend**
 
