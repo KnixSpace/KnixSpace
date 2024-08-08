@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **krupalgp2003@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/143ORChNaT2SVu7ViyUtOdtF_xqZK301YUSZe3e6S5Nw/edit?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1f4FAcvnHH-Wsum1hqTPLIDzcJVZYKa0s/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
