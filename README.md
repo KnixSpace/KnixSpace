@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/knixspace" target="blank"><img src="https://img.shields.io/twitter/follow/knixspace?logo=twitter&style=for-the-badge" alt="knixspace" /></a> </p>
 
-- 🌱 I’m currently learning **♾️**
+- 🌱 I’m currently Junior Full Stack Developer at Group.one (formally SocialPilot) **♾️**
 
 - 💬 Ask me about **MERN | Web Development | Frontend | Backend**
 
