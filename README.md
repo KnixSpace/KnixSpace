@@ -5,13 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/knixspace" target="blank"><img src="https://img.shields.io/twitter/follow/knixspace?logo=twitter&style=for-the-badge" alt="knixspace" /></a> </p>
 
-- 🌱 I’m currently Junior Full Stack Developer at Group.one (formally SocialPilot) **♾️**
+- 🌱 I’m currently Junior Full Stack Developer (SDE-1) at Group.one (formally SocialPilot) **♾️**
 
 - 💬 Ask me about **MERN | Web Development | Frontend | Backend**
 
 - 📫 How to reach me **krupalgp2003@gmail.com**
-
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1f4FAcvnHH-Wsum1hqTPLIDzcJVZYKa0s/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
